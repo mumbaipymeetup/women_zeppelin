@@ -66,7 +66,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Python In a Day for Women <typeout> "
 eventDate: "October 7, 2017"
-typeoutTextValues: '" Mumbai"'
+typeoutTextValues: '", Mumbai"'
 typeoutFallback: ""
 heroButtons:
  - {link: "https://pyconfhyd.talkfunnel.com/2017/", text: "Become a Speaker"}
@@ -75,7 +75,7 @@ heroButtons:
 # About Block
 aboutTitle: "Python In a Day for Women"
 aboutBlock:
- - {title: "Meetup", image: "conference.jpg", text: "You’ll walk out of the meet up with Knowledge about the Python Ecosystem, Interesting conversations and possibly even lifelong friends." }
+ - {title: "Meetup", image: "conference.png", text: "You’ll walk out of the meet up with Knowledge about the Python Ecosystem, Interesting conversations and possibly even lifelong friends." }
  - {title: "Workshops", image: "workshop.jpg", text: "Hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  #- {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
