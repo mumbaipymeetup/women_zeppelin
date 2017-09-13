@@ -68,7 +68,7 @@ heroButtons:
 aboutTitle: "Python In a Day for Women"
 aboutBlock:
  
- - {image: "conference.png", text: "Are you a woman in the field of Science, Technology, Engineering or Math looking to know more about Programming and Python Language?  The FOSSEE project at IIT Bombay has initiated an interesting activity- “Python In a day for Women 2017”, a meetup targeted for women in computing.  Join us at the Free 1 day “Python In a day for Women 2017” on 23 September 2017 at IIT Bombay. Come and tame your favourite technology!" }
+ - {title: "", image: "conference.png", text: "Are you a woman in the field of Science, Technology, Engineering or Math looking to know more about Programming and Python Language?  The FOSSEE project at IIT Bombay has initiated an interesting activity- “Python In a day for Women 2017”, a meetup targeted for women in computing.  Join us at the Free 1 day “Python In a day for Women 2017” on 23 September 2017 at IIT Bombay. Come and tame your favourite technology!" }
  
 
 # Statistic Block
@@ -96,13 +96,13 @@ eventStreetAddress: "HSS/Aerospace Dept."
 eventAddressLocality: "Powai"
 eventAddressLocalityRegion: "Lvivska"
 eventPostalCode: "400076"
-#eventAddressCountry: "Ukraine"
-eventStartTime: "9.00AM-3.00PM IST"
-#eventDoorTime: "09:00"
-#eventEndTime: "2014-10-25T20:00"
-#eventPlaceCoordinates: "49.843237, 24.028751"
-#mapCenterCoordinates: "49.842537, 24.025701"
-#mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventAddressCountry: "Ukraine"
+eventStartTime: "9.00AM-3.00PM""
+eventDoorTime: "09:00"
+eventEndTime: "2014-10-25T20:00"
+eventPlaceCoordinates: "49.843237, 24.028751"
+mapCenterCoordinates: "49.842537, 24.025701"
+mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Venue Block
 venueBlockTitle: "Venue"
