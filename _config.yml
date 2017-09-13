@@ -58,9 +58,9 @@ navigationLinks:
 
 
 bottomNavigationLinks:
- - {link: "https://pyconfhyd.talkfunnel.com/2017/", text: "Become a speaker"}
+ - {link: "https://pyconfhyd.talkfunnel.com/2017/", text: "Register Here for Free"}
 rightNavigationButtons:
- - {link: "https://pyconfhyd.talkfunnel.com/2017/", text: "Become a speaker"}
+
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -69,8 +69,8 @@ eventDate: "October 7, 2017"
 typeoutTextValues: '", Mumbai"'
 typeoutFallback: ""
 heroButtons:
- - {link: "https://pyconfhyd.talkfunnel.com/2017/", text: "Become a Speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSe_T5_zZhcENRv2UWGHpRPfTix3SpYqb6JO2Ijcqp1tbNJMkg/viewform?c=0&w=1", text: "Register Here for Free"}
+ 
 
 # About Block
 aboutTitle: "Python In a Day for Women"
