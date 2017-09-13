@@ -67,9 +67,9 @@ heroButtons:
 # About Block
 aboutTitle: "Python In a Day for Women"
 aboutBlock:
- - { }
+ 
  - {title: "", image: "conference.png", text: "Are you a woman in the field of Science, Technology, Engineering or Math looking to know more about Programming and Python Language?  The FOSSEE project at IIT Bombay has initiated an interesting activity- “Python In a day for Women 2017”, a meetup targeted for women in computing.  Join us at the Free 1 day “Python In a day for Women 2017” on 23 September 2017 at IIT Bombay. Come and tame your favourite technology!" }
- - {}
+ 
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
