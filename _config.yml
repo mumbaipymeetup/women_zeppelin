@@ -218,6 +218,14 @@ aboutUs: "Google's services have become synonymous with simple things online. Nu
 #logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
+directionDetailsImage: "direction-details.jpg"
+directionDetailsTitle: "Get around Lviv"
+directionDetailsCards:
+ - {title: "Do we have to pay to attend this meetup?", information: 'No. This meetup is absolutely free'}
+ - {title: "Is this meet up open for women working as Academic Faculty?", information: 'Yes. This workshop is open to all women irrespective of their professions. Women from Academia, students, teachers and faculty are welcome to attend.'}
+ - {title: "Do you provide stay/accommodation?", information: 'No. This is a free 1 day meetup run by volunteers and hence, unfortunately, we are unable to provide free or paid accommodation'}
+- {title: "Is there any age limit to the participants?", information: 'No. Women of all ages can participate.'}
+- {title: "Can men attend this meetup?", information: 'The meetup is geared towards women in STEM. We do encourage  attendees with +1 guests to attend.'}
 
 # Hackathon
 hackathonTitle: "Hackathon"
