@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
 
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/about/", text: "About"}
+
 
  - {permalink: "/faqs/", text: "FAQ"}
 
@@ -64,9 +64,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Python In a Day for Women <typeout> "
+heroTitle: "Python In a Day for Women, <typeout> "
 eventDate: "October 7, 2017"
-typeoutTextValues: '", Mumbai"'
+typeoutTextValues: '" Mumbai"'
 typeoutFallback: ""
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSe_T5_zZhcENRv2UWGHpRPfTix3SpYqb6JO2Ijcqp1tbNJMkg/viewform?c=0&w=1", text: "Register Here for Free"}
@@ -98,16 +98,16 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "https://www.iiit.ac.in/"
-eventStreetAddress: "IIIT Hyderabad"
-eventAddressLocality: "Hyderabad"
-eventAddressLocalityRegion: "Telangana"
-eventPostalCode: "500032"
+eventLocationName: "HSS/Aerospace Dept."
+eventLocationLink: ""
+eventStreetAddress: "IIT Bombay"
+eventAddressLocality: "Powai"
+eventAddressLocalityRegion: ""
+eventPostalCode: "400076"
 eventAddressCountry: "India"
-eventStartTime: "2017-10-07T09:30"
+eventStartTime: "2017-10-07T09:00AM"
 eventDoorTime: "09:00"
-eventEndTime: "2017-10-08T17:00"
+eventEndTime: "2017-10-07T3:00PM"
 eventPlaceCoordinates: "17.4455415, 78.3471251"
 mapCenterCoordinates: "17.4455415, 78.3471251"
 mapMobileCenterCoordinates: "17.4455415, 78.3471251"
@@ -194,7 +194,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:contact@hydpy.org", text: "contact@hydpy.org"}
+   - {link: "mailto:mum@pyladies.com", text: "mum@pyladies.com"}
  -
   title: "FAQ"
   links:
