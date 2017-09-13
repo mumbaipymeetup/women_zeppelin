@@ -43,19 +43,18 @@ c4sponsorsUrl: "/assets/pyconfhyd_prospectus.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- #- {permalink: "/blog/", text: "Blog"}
+
  - {permalink: "/schedule/", text: "Schedule"}
- #- {permalink: "/proposals/", text: "CFP"}
+
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/about/", text: "About"}
- - {permalink: "/#partners", text: "Sponsors"}
+
  - {permalink: "/faqs/", text: "FAQ"}
- - {permalink: "/python-month/", text: "Python Month"}
+
  #- {permalink: "/volunteers/", text: "Volunteers"}
  #- {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
- - {permalink: "/volunteers/", text: "Volunteers"}
- - {permalink: "/coc/", text: "Code of Conduct"}
+
 
 
 bottomNavigationLinks:
@@ -65,19 +64,19 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "PyConf Hyderabad 2017"
-eventDate: "7th - 8th October, 2017"
-typeoutTextValues: '""'
+heroTitle: "Python In a Day for Women <typeout> "
+eventDate: "October 7, 2017"
+typeoutTextValues: '" Mumbai"'
 typeoutFallback: ""
 heroButtons:
  - {link: "https://pyconfhyd.talkfunnel.com/2017/", text: "Become a Speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About PyConf Hyderabad"
+aboutTitle: "Python In a Day for Women"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "PyConf Hyderabad is the regional gathering for the community that uses and develops the open-source Python Programming Language." }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Meetup", image: "conference.jpg", text: "You’ll walk out of the meet up with Knowledge about the Python Ecosystem, Interesting conversations and possibly even lifelong friends." }
+ - {title: "Workshops", image: "workshop.jpg", text: "Hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  #- {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
