@@ -1,66 +1,24 @@
 -
   id: 1
-  question: "Should I buy different tickets for day 1 & day 2 of the conference?"
-  answer: "Yes. Day 1 and Day 2 are two separate tickets. Day 1 is Workshop, ticket price is 500 INR. Day 2 is the Main Conference, ticket price is 800 INR."
+  question: "Do we have to pay to attend this meetup?"
+  answer: "No. This meetup is absolutely free."
 
 -
   id: 2
-  question: "Can I attend Workshop I and Workshop II?"
-  answer: "Workshop I and II are parallel tracks; only one workshop can be chosen."
+  question: "Is this meet up open for women working as Academic Faculty?"
+  answer: "Yes. This workshop is open to all women irrespective of their professions. Women from Academia, students, teachers and faculty are welcome to attend."
 
 -
   id: 3
-  question: "What are prerequisite for workshop?"
-  answer: "Knowledge of python and computer are necessary. Specific libraries and other prerequisite for workshop will be sent via email before the workshop.."
+  question: "Do you provide stay/accommodation?"
+  answer: "No. This is a free 1 day meetup run by volunteers and hence, unfortunately, we are unable to provide free or paid accommodation"
 
 -
   id: 4
-  question: "Is food available at the Venue?"
-  answer: "Yes food will be provided as part of the conference, please check the schedule for lunch & snack break timings."
+  question: "Is there any age limit to the participants?"
+  answer: "No. Women of all ages can participate."
 
 -
   id: 5
-  question: "Why is the conference name not PyCon Hyderabad?"
-  answer: "Each country should preferably have one PyCon Conference, so we decided to keep the name as PyConf. The objectives, community & Python, everything remains same. :)
-"
-
--
-  id: 6
-  question: "Who is the target audience for the conference?"
-  answer: "This conference is primarily targeted towards working professionals who want to learn, explore, share & connect. Students are also welcome at the conference."
-
--
-  id: 7
-  question: "I have issues with ticket payment whom should I contact?"
-  answer: "Please email us at <a href='mailto:contact@hydpy.org'>contact@hydpy.org</a>."
-
--
-  id: 8
-  question: "Is there a student discount?"
-  answer: "Yes, Students get a 20% discount on Conference(Day 2) ticket. Apply code <b>PYCONFSTUDENT2017</b> at the Checkout page. Valid ID card is necessary for availing discount."
-
--
-  id: 9
-  question: "I am a student and I purchased a ticket, can I still avail student discount?"
-  answer: "No, the coupon has to be applied before purchasing of the ticket."
-
--
-  id: 10
-  question: "I don't have student ID card, to get the student discount which ID card needs to be shown at the registration desk?"
-  answer: "A college ID card from a recognised university is a must for availing student discount. We need to verify the same at the registration desk, else the difference will have to be paid at the registration desk for entry."
-
--
-  id: 11
-  question: "I Want To Volunteer For The Conference. What Should I Do?"
-  answer: "Currently we feel we have enough volunteers for the conference, please drop your name here, we will get in touch with you if required. Your help is much appreciated.
-"
-
--
-  id: 12
-  question: "I am a Speaker/Volunteer At The Conference. Do I Need To Buy A Ticket?"
-  answer: "Yes. At PyConf, everybody buys tickets. Even the event organizers buy tickets. Your ticket helps keep the event affordable for all."
-
--
-  id: 13
-  question: "My Question Is Not Listed Here / I Am Still Unclear About A Few Things. Whom Should I Contact?"
-  answer: "Please send an email to <a href='mailto:contact@hydpy.org'>contact@hydpy.org</a>."
+  question: "Can men attend this meetup?"
+  answer: "The meetup is geared towards women in STEM. We do encourage  attendees with +1 guests to attend."
