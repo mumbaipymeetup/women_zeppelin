@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "PyConf Hyderabad 2017"
-email: "contact@hydpy.org"
+email: "mum@pyladies.com"
 description: "Hyderabad Python Conference 2017"
 baseurl: "/women"
 url: "http://pyconf.hydpy.org/"
@@ -73,7 +73,7 @@ heroButtons:
  
 
 # About Block
-aboutTitle: "Python In a Day for Women"
+aboutTitle: "About Meetup"
 aboutBlock:
  - {title: "Meetup", image: "conference.png", text: "You’ll walk out of the meet up with Knowledge about the Python Ecosystem, Interesting conversations and possibly even lifelong friends." }
  - {title: "Workshops", image: "workshop.jpg", text: "Hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
